@@ -1,4 +1,3 @@
-package EserciziInClasse23;
 
 /**
  * TavolaPitagorica
