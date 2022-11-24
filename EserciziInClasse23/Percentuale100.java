@@ -35,6 +35,7 @@ public class Percentuale100 {
             if(randInt(1, 100)%2==0)sPar++;
             else sDis++;
         }
-        System.out.printf("Percentuale pari: %10f\nPercentuale dispari: %10f",(double)sPar/(double)100*100,(double)sDis/(double)100*100);
+        System.out.printf("Percentuale pari: %10f\nPercentuale dispari: %10f\n",(double)sPar/(double)100*100,(double)sDis/(double)100*100);
+        System.out.println("*Numeri generati in automatico*");
     }
 }
