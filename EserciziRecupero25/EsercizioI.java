@@ -5,7 +5,7 @@ package EserciziRecupero25;
  */
 public class EsercizioI {
     public static void main(String[] args) {
-        System.out.println("| hex | Oct |  Binary  | int | char|");
+        System.out.println("| hex | oct |  binary  | int | char|");
         for (int i = 64; i < 96; i++) {
             System.out.printf(
                 "|%5s|%5s|%10s|%5d|%5s|\n",
@@ -15,6 +15,7 @@ public class EsercizioI {
                 i,
                 (char)i
             );
+            int char float double byte long short  
         }
     }
 }
