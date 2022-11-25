@@ -20,14 +20,6 @@ public class EsercizioH {
             } catch (Exception e) {}
         } while (t<=0 || t > 1000000);
 
-        while (t>=60) {
-            m++;
-            t=t-60;
-        }
-        while (m>=60) {
-            h++;
-            m=m-60;
-        }
-        System.out.printf("%dh %dm %ds\n",h,m,t);
+        System.out.printf("%2dh:%2dm:%2ds",t/3600,t%3600/60,t%60);
     }
 }
