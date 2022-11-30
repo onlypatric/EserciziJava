@@ -1,5 +1,6 @@
 package EserciziRecupero25;
 
+
 import java.util.Scanner;
 
 /**
@@ -8,7 +9,6 @@ import java.util.Scanner;
  * STAMPARE IL RISULTATO NELLA FORMA hh:mm:ss
  */
 public class EsercizioH {
-
     public static void main(String[] args) {
         int t=0;
         int h=0,m=0;

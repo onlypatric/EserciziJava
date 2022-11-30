@@ -15,7 +15,6 @@ public class EsercizioI {
                 i,
                 (char)i
             );
-            int char float double byte long short  
         }
     }
 }

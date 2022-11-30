@@ -84,4 +84,7 @@ public class RUtil {
     public final void println(Object o){
         System.out.println(o.toString());
     }
+    public final void printDioCane(Object o){
+        System.out.println(o.toString());
+    }
 }
