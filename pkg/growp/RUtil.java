@@ -1,15 +1,11 @@
 package pkg.growp;
 
-import java.util.Random;
-
 public class RUtil {
-    private static Random r; 
     /**
      * @param null
      * constructor.
      */
     public RUtil() {
-        r=new Random();
     }
     /**
      * @param start int
